@@ -1,0 +1,200 @@
+/*smart phones & tablets*/
+@media (min-width:481px) and (max-width:767px){
+   .logo {
+        margin-left: 30px;
+    }
+    .name {
+        font-size: 25px;
+        margin-left: 85px;
+        line-height: 1;
+    }
+    .right_menu {
+        display: none;
+    }
+    #home ul {
+        display: block;
+    }
+    .time {
+        font-size: 30px;
+    }
+    .time_descripation{
+        font-size: 20px;
+        margin-left: -15px;
+    }
+    .header_body {
+        height: 200px;
+        padding-top: 50px;
+        margin-top: 100px;
+    }
+    .footer-_{
+        width: 100%;
+    }
+    .footer- .logos img {
+        margin-left: -15%;
+        width: 150px;
+        height: 150px;
+    }
+    .header_contant {
+        margin-left: 2%;
+    }
+    .event_parts_body_title {
+        font-size: 20px;
+    }
+    .event_parts_body_image img{
+        width: 80%;
+    }
+    .event_schedule_header .event_schedule_descrapation {
+        margin-left: 7%;
+    }
+    .event_schedule_descrapation {
+        margin-left: 7%;
+    }
+    .fa-plus-square {
+        margin-left: 10px;
+    }
+    .event_schedule  {
+        width: 100%;
+        margin-left: -8px;
+    }
+    .event_schedule_header .event_schedule_time {
+        margin-left: 1%;
+    }
+    .event_schedule_time {
+        margin-left: 1%;
+    }
+    .envato_elite_logo {
+        margin-left: 10%;
+        width: 150px;
+        height: 150px;
+    }
+    .envato_elite_body {
+        margin-top: -100px;
+    }
+    .container {
+        width: 30%;
+        margin-left: 10px;
+    }
+    .speaker_section_body {
+        margin-left: -1%;
+    }
+    #map {
+        width: 100%;
+        float: none;
+    }
+    .form-rigth {
+        width: 100%;
+        margin-top: 50px;
+        margin-right: 100px;
+    }
+    .end_site {
+        margin-top: 400px;
+    }
+    .up {
+        margin-left: 420px;
+    }
+}
+/*small screen*/
+@media (min-width:768px) and (max-width:991px){
+     .logo {
+        margin-left: 30px;
+    }
+    .name {
+        font-size: 25px;
+        margin-left: 85px;
+        line-height: 1;
+    }
+    .right_menu {
+        margin-left: 35%;
+        width: 70%;
+    }
+   .right_menu .menu {
+        margin-left: 10px;
+    }
+     .time {
+        font-size: 44px;
+    }
+    .header_body {
+        height: 200px;
+        padding-top: 50px;
+        margin-top: 100px;
+    }
+    .footer-_ {
+        width: 100%;
+    }
+    .event_schedule_header .event_schedule_descrapation {
+        margin-left: 10%;
+    }
+    .event_schedule_descrapation {
+        margin-left: 10%;
+    }
+    .fa-plus-square {
+        margin-left: 10px;
+    }
+    .envato_elite_logo {
+        margin-left: 10%;
+    }
+    .envato_elite_body {
+        margin-top: -100px;
+    }
+    .container {
+        width: 25%;
+    }
+    .form-rigth {
+        width: 40%;
+    }
+    .form-rigth input{
+        width: 200px;
+    }
+}
+
+/*medium screen*/
+@media (min-width:992px) and (max-width:1199px){
+    .logo {
+        margin-left: 100px;
+    }
+    .name {
+        font-size: 25px;
+        margin-left: 160px;
+        line-height: 1;
+    }
+    .right_menu {
+        margin-left: 35%;
+        width: 60%;
+    }
+    .time {
+        font-size: 44px;
+    }
+    .header_body {
+        height: 150px;
+    }
+    .header_body_data {
+        font-size: 20px;
+    }
+    .footer-_ {
+        width: 100%;
+    }
+    .header_contant {
+        margin-left: 5%;
+    }
+    .event_schedule_header .event_schedule_descrapation {
+        margin-left: 15%;
+    }
+    .event_schedule_descrapation {
+        margin-left: 15%;
+    }
+    .fa-plus-square {
+        margin-left: 100px;
+    }
+    .envato_elite_logo {
+        margin-left: 10%;
+    }
+    .envato_elite_body {
+        margin-top: -100px;
+    }
+    .form-rigth {
+        width: 40%;
+    }
+    .form-rigth input{
+        width: 250px;
+    }
+}
